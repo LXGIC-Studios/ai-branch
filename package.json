@@ -1,7 +1,7 @@
 {
   "name": "ai-branch",
   "version": "1.0.0",
-  "description": "Generate descriptive git branch names from plain English descriptions",
+  "description": "AI-powered git branch name generator - semantic branch names from ticket or description",
   "main": "dist/index.js",
   "bin": {
     "ai-branch": "dist/cli.js"
@@ -10,10 +10,21 @@
     "build": "tsc"
   },
   "keywords": [
+    "ai",
+    "openai",
+    "gpt",
     "git",
     "branch",
-    "ai",
-    "cli"
+    "naming",
+    "convention",
+    "workflow",
+    "github",
+    "developer-tools",
+    "cli",
+    "automation",
+    "typescript",
+    "nodejs",
+    "version-control"
   ],
   "license": "MIT",
   "dependencies": {
