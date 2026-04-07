@@ -1,5 +1,5 @@
 {
-  "name": "ai-branch",
+  "name": "@lxgicstudios/ai-branch",
   "version": "1.0.0",
   "description": "AI-powered git branch name generator - semantic branch names from ticket or description",
   "main": "dist/index.js",
