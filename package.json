@@ -15,41 +15,29 @@
     "build": "tsc"
   },
   "keywords": [
-    "2025-standards",
-    "ai",
-    "ai-2025",
-    "ai-powered",
-    "anthropic",
-    "automation",
-    "branch",
-    "branching",
-    "claude",
-    "cli",
-    "convention",
-    "developer-productivity",
-    "developer-tools",
-    "discoverability",
-    "generative-ai",
     "git",
-    "llm-optimized",
-    "modern-seo",
+    "branching",
+    "cli",
+    "typescript",
     "nodejs",
-    "optimization",
+    "AI-powered",
+    "AI-optimized",
     "performance",
-    "performance-optimization",
+    "optimization",
     "seo",
-    "seo-2026",
-    "typescript"
+    "discoverability",
+    "2025-standards",
+    "modern-seo"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
-  "homepage": "https://github.com/LXGIC-Studios/ai-branch#readme",
+  "homepage": "https://github.com/lxgicstudios/ai-branch#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/ai-branch"
+    "url": "https://github.com/lxgicstudios/ai-branch"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/ai-branch/issues"
+    "url": "https://github.com/lxgicstudios/ai-branch/issues"
   },
   "funding": {
     "type": "github",
