@@ -16,7 +16,7 @@
 
 # AI Branch
 
-solve specific development challenges with AI-powered insights.
+AI-powered git branch name generator — semantic branch names from tickets, issues, or descriptions. Works with Claude, Cursor, GPT, Copilot.
 
 [![npm downloads](https://img.shields.io/npm/d/ai-branch.svg?style=for-the-badge&logo=npm&label=downloads)](https://npmjs.com/package/ai-branch)
 [![GitHub stars](https://img.shields.io/github/stars/LXGIC-Studios/ai-branch?style=for-the-badge&logo=github&label=stars)](https://github.com/LXGIC-Studios/ai-branch)
@@ -24,9 +24,17 @@ solve specific development challenges with AI-powered insights.
 
 </div>
 
-> AI-powered git branch name generator - semantic branch names from ticket or description.
+> AI-powered git branch name generator — semantic branch names from tickets or descriptions.
 
-## 🚀 Features
+## 🤖 Works With
+
+| AI Assistant | Support |
+|-------------|---------|
+| 🤖 **Claude / Claude Code** | ✅ Full |
+| 🔵 **Cursor** | ✅ Full |
+| 💚 **GPT / ChatGPT** | ✅ Full |
+| ⚡ **GitHub Copilot** | ✅ Full |
+| 🧩 **MCP Servers** | ✅ Compatible |## 🚀 Features
 
 - Feature 1
 - Feature 2
