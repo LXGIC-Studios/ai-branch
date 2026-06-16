@@ -8,7 +8,7 @@
     "ai-branch": "dist/cli.js"
   },
   "bugs": {
-    "url": "https://github.com/lxgicstudios/ai-branch/issues"
+    "url": "https://github.com/lxgicstudios/npm-tools/issues"
   },
   "dependencies": {
     "commander": "^12.1.0",
@@ -32,27 +32,12 @@
     "type": "github",
     "url": "https://github.com/sponsors/LXGIC-Studios"
   },
-  "homepage": "https://github.com/lxgicstudios/ai-branch#readme",
+  "homepage": "https://github.com/lxgicstudios/npm-tools/tree/main/ai-branch",
   "keywords": [
-    "2026-standards",
-    "modern-seo",
-    "ai-powered",
-    "lxgic",
-    "ai",
-    "automation",
-    "claude",
-    "gpt",
-    "cursor",
-    "copilot",
-    "agent",
-    "cli",
-    "devtools",
-    "git",
-    "branching",
-    "core-update-ready",
-    "google-ai-overviews",
-    "eeat-seo",
-    "june-2026-update"
+    "git-branch",
+    "branch-management",
+    "git-workflow",
+    "version-control"
   ],
   "license": "MIT",
   "main": "dist/index.js",
@@ -63,7 +48,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/npm-tools/tree/main/ai-branch"
+    "url": "git+https://github.com/lxgicstudios/npm-tools.git",
+    "directory": "ai-branch"
   },
   "scripts": {
     "build": "tsc"
