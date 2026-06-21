@@ -1,13 +1,13 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/LXGIC-Studios">
+  <a href="https://github.com/lxgicstudios">
     <img src="https://img.shields.io/badge/LXGIC%20Studios-⚡-blue?style=for-the-badge&logo=github" alt="LXGIC Studios" />
   </a>
   <a href="https://npmjs.com/package/ai-branch">
     <img src="https://img.shields.io/npm/v/ai-branch.svg?style=for-the-badge&logo=npm" alt="npm version" />
   </a>
-  <a href="https://github.com/LXGIC-Studios/ai-branch/actions">
+  <a href="https://github.com/lxgicstudios/ai-branch/actions">
     <img src="https://img.shields.io/github/actions/workflow/status/LXGIC-Studios/ai-branch/ci.yml?branch=main&style=for-the-badge&logo=github" alt="CI" />
   </a>
 </p>
@@ -19,8 +19,8 @@
 AI-powered git branch name generator — semantic branch names from tickets, issues, or descriptions. Works with Claude, Cursor, GPT, Copilot.
 
 [![npm downloads](https://img.shields.io/npm/d/ai-branch.svg?style=for-the-badge&logo=npm&label=downloads)](https://npmjs.com/package/ai-branch)
-[![GitHub stars](https://img.shields.io/github/stars/LXGIC-Studios/ai-branch?style=for-the-badge&logo=github&label=stars)](https://github.com/LXGIC-Studios/ai-branch)
-[![License: MIT](https://img.shields.io/npm/l/ai-branch.svg?style=for-the-badge&logo=mit&color=blue)](https://github.com/LXGIC-Studios/ai-branch/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/LXGIC-Studios/ai-branch?style=for-the-badge&logo=github&label=stars)](https://github.com/lxgicstudios/ai-branch)
+[![License: MIT](https://img.shields.io/npm/l/ai-branch.svg?style=for-the-badge&logo=mit&color=blue)](https://github.com/lxgicstudios/ai-branch/blob/main/LICENSE)
 
 </div>
 
@@ -120,7 +120,7 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 ### Development Setup
 
 ```bash
-git clone https://github.com/LXGIC-Studios/ai-branch.git
+git clone https://github.com/lxgicstudios/ai-branch.git
 cd ai-branch
 npm install
 npm run dev
@@ -139,7 +139,7 @@ Built with ❤️ by the LXGIC Studios team.
 <div align="center">
 
 **Built by LXGIC Studios**  
-🔗 [GitHub](https://github.com/LXGIC-Studios) · [Twitter](https://x.com/lxgicstudios)  
-💡 Want more free tools like this? We have 100+ on our GitHub: [github.com/LXGIC-Studios](https://github.com/LXGIC-Studios)
+🔗 [GitHub](https://github.com/lxgicstudios) · [Twitter](https://x.com/lxgicstudios)  
+💡 Want more free tools like this? We have 100+ on our GitHub: [github.com/LXGIC-Studios](https://github.com/lxgicstudios)
 
 </div>
