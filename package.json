@@ -39,7 +39,8 @@
     "git-workflow",
     "version-control",
     "june-2026-core-update",
-    "faq-rich-results-removed"
+    "faq-rich-results-removed",
+    "technical-seo"
   ],
   "license": "MIT",
   "main": "dist/index.js",
